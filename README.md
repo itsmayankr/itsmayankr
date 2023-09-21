@@ -17,7 +17,7 @@
 ###
 
 <p align="left">✨ Creating bugs since I was 15 😄<br>📚 I'm currently riding the AI learning wave 🌊🤖<br>💬 Ask me about MERN and MEAN</p>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" alt="coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 ###
 
