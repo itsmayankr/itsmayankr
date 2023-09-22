@@ -8,7 +8,9 @@
 
 ###
 
-<p align="left">I am a Senior Software Developer from India with a passion for crafting clean and efficient code.<br><br>Founder and Owner of EliteKods<br>Founder and Owner of Profolionet</p>
+<p align="left">I am a Senior Software Developer from India with a passion for crafting clean and efficient code.<be>
+<br>Founder and CEO of <a href="https://elitekods.com/" target="_blank">EliteKods</a>
+<br>Founder and CEO of <a href="https://profolionet.com/" target="_blank">Profolionet</a></p>
 
 ###
 
