@@ -9,6 +9,7 @@
 ###
 
 <p align="left">I am a Senior Software Developer from India with a passion for crafting clean and efficient code.<br><br>Founder and Owner of EliteKods<br>Founder and Owner of Profolionet</p>
+<img align="right" width="250" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 ###
 
@@ -17,7 +18,6 @@
 ###
 
 <p align="left">✨ Creating bugs since I was 15 😄<br>📚 I'm currently riding the AI learning wave 🌊🤖<br>💬 Ask me about MERN and MEAN</p>
-<img align="right" alt="coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 ###
 
