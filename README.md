@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1ShXooytglhcCoSzomR6JM-m6ljvTybdC"  />
+  <img src="https://drive.google.com/uc?export=view&id=1FTHbHDEXFulWs99UeuT4smxofZgJZITy"  />
 </div>
 
 ###
@@ -9,7 +9,6 @@
 ###
 
 <p align="left">I am a Senior Software Developer from India with a passion for crafting clean and efficient code.<br><br>Founder and Owner of EliteKods<br>Founder and Owner of Profolionet</p>
-<img align="right" width="250" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 ###
 
