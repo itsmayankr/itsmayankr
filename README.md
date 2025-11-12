@@ -10,7 +10,6 @@
 
 <p align="left">I am a Senior Software Developer from India with a passion for crafting clean and efficient code.<be>
 <br>Founder and CEO of <a href="https://elitekods.com/" target="_blank">EliteKods</a>
-<br>Founder and CEO of <a href="https://profolionet.com/" target="_blank">Profolionet</a></p>
 
 ###
 
